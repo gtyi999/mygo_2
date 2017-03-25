@@ -101,6 +101,7 @@ func main(){
 	j.human.Sex=100
 	fmt.Println(j)
 
+
 }
 
 //值拷贝函数
