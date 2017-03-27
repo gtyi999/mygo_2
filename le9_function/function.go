@@ -81,7 +81,7 @@ func main(){
 	for _,f:=range fs{
 		f()
 	}
-	
+
 
 
 
