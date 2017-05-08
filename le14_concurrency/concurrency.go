@@ -52,6 +52,7 @@ func main(){
 	}
 	<-c4
 
+
 }
 
 func Go(c4 chan bool,index int){
